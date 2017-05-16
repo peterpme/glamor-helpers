@@ -1,5 +1,5 @@
 import { css } from 'glamor';
 
-export default function createGradient () {
+export function createGradient () {
   throw new Error('not implemented yet')
 }

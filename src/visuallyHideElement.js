@@ -1,6 +1,6 @@
 import { css } from 'glamor';
 
-export default function visuallyHideElement () {
+export function visuallyHideElement () {
     return css({
       margin: -1,
       padding: 0,
