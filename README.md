@@ -8,7 +8,7 @@ A series of [glamor](https://github.com/threepointone/glamor) helpers!
 
 ## API
 
-### `setAspectRatio`
+### setAspectRatio
 
 ```
 setAspectRatio (width: number, height: number);
