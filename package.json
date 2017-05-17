@@ -1,6 +1,6 @@
 {
   "name": "glamor-helpers",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A series of glamor helpers to make your life easier!",
   "jsnext:main": "dist/glamor-helpers.es.js",
   "module": "dist/glamor-helpers.es.js",
@@ -8,7 +8,8 @@
   "umd:main": "dist/glamor-helpers.umd.js",
   "files": [
     "dist"
-  ], "repository": "git@github.com:peterpme/glamor-helpers.git",
+  ],
+  "repository": "git@github.com:peterpme/glamor-helpers.git",
   "author": "Peter Piekarczyk <peterpiekarczyk@gmail.com>",
   "license": "MIT",
   "scripts": {
