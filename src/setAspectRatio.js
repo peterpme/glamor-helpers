@@ -1,5 +1,5 @@
 import { css } from "glamor";
-export function setAspectRatio(width, height) {
+export default function setAspectRatio(width, height) {
   const paddingTop = height / width * 100;
   return css({
     position: "relative",
