@@ -1,6 +1,6 @@
 # Glamor Helpers
 
-A series of glamor helpers!
+A series of [glamor](https://github.com/threepointone/glamor) helpers!
 
 ## Getting Started
 
