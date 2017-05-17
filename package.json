@@ -1,6 +1,6 @@
 {
   "name": "glamor-helpers",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A series of glamor helpers to make your life easier!",
   "jsnext:main": "dist/glamor-helpers.es.js",
   "module": "dist/glamor-helpers.es.js",
