@@ -34,3 +34,15 @@ em(16)
 ```
 makeFluid()
 ```
+
+### visuallyHideElement
+
+```
+visuallyHideElement()
+```
+
+### createGradient [TBD]
+
+```
+createGradient()
+```
